@@ -1,1 +1,1 @@
-# Learn using GIT Commands
+# Learn GIT Commands
