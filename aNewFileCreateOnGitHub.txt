@@ -1,2 +1,7 @@
 THis is a new file in order to tests the 'git Fetch' command...
+<<<<<<< Updated upstream
 Test dual changes in github and in local
+=======
+
+the aother leg of a dual change in Remote and in local branch:
+>>>>>>> Stashed changes
