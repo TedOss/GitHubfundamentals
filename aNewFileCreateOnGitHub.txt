@@ -5,3 +5,6 @@ Test dual changes in github and in local
 
 the aother leg of a dual change in Remote and in local branch:
 >>>>>>> Stashed changes
+
+
+invitation was made
